@@ -1,9 +1,10 @@
 # MS-SQL Coffee Shop Database
 
 This repository is going to include 
+  
+  
   1- Database design
 
-  
   2- Create Codes 
   
   3- Trigger Codes
